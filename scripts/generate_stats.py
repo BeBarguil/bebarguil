@@ -224,14 +224,17 @@ def langs_svg(by_bytes, by_repo, top=6):
     H = 30 + LINE_H * (len(ranked) + 1) + 10
     tot = sum(by_bytes.values()) or 1
     out = [svg_open(W, H)]
-    out.append(text(10, 20, "top languages   bytes    repos", "dim"))
     bar_x, bar_w = 165, 150
+    out.append(text(10, 20, "top languages", "dim"))
+    out.append(text(bar_x, 20, "bytes", "dim"))
+    out.append(text(bar_x + bar_w + 55, 20, "repos", "dim"))
     for i, (name, size) in enumerate(ranked):
         y = 20 + LINE_H * (i + 1)
         pct = size / tot
         out.append(text(10, y, name[:15]))
         out.append(f'<rect x="{bar_x}" y="{y - 10}" width="{bar_w * pct:.1f}" height="9"/>')
-        out.append(text(bar_x + bar_w + 10, y, f"{pct * 100:4.0f}%    {by_repo.get(name, 0):2d}", "dim"))
+        out.append(text(bar_x + bar_w + 10, y, f"{pct * 100:4.0f}%", "dim"))
+        out.append(text(bar_x + bar_w + 55, y, f"{by_repo.get(name, 0):5d}", "dim"))
     out.append("</svg>")
     write("langs.svg", "\n".join(out))
 
