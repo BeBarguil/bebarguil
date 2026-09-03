@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 110" width="460" height="110"><style>text{font-family:'JetBrains Mono', 'DejaVu Sans Mono', 'Liberation Mono', monospace;font-size:12.9px;fill:#8b949e;white-space:pre;}.dim{fill:#484f58;}.big{font-size:33.5px;}rect,polyline,path{fill:#8b949e;}polyline{fill:none;stroke:#8b949e;stroke-width:1.5;}</style>
+<text x="10.0" y="46.0" class="big" xml:space="preserve">1</text>
+<text x="10.0" y="66.0" class="dim" xml:space="preserve">day current streak</text>
+<text x="10.0" y="86.0" class="dim" xml:space="preserve">03 sep → 03 sep</text>
+<text x="240.0" y="46.0" class="big" xml:space="preserve">5</text>
+<text x="240.0" y="66.0" class="dim" xml:space="preserve">day longest streak</text>
+<text x="240.0" y="86.0" class="dim" xml:space="preserve">03 mar → 07 mar</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 152.875" width="460" height="152.875"><style>text{font-family:'JetBrains Mono', 'DejaVu Sans Mono', 'Liberation Mono', monospace;font-size:12.9px;fill:#8b949e;white-space:pre;}.dim{fill:#484f58;}.big{font-size:33.5px;}rect,polyline,path{fill:#8b949e;}polyline{fill:none;stroke:#8b949e;stroke-width:1.5;}</style>
+<text x="10.0" y="20.0" class="dim" xml:space="preserve">top languages   bytes    repos</text>
+<text x="10.0" y="36.1" xml:space="preserve">Ruby</text>
+<rect x="165" y="26.125" width="64.2" height="9"/>
+<text x="325.0" y="36.1" class="dim" xml:space="preserve">  43%     7</text>
+<text x="10.0" y="52.2" xml:space="preserve">HTML</text>
+<rect x="165" y="42.25" width="63.4" height="9"/>
+<text x="325.0" y="52.2" class="dim" xml:space="preserve">  42%     7</text>
+<text x="10.0" y="68.4" xml:space="preserve">JavaScript</text>
+<rect x="165" y="58.375" width="6.7" height="9"/>
+<text x="325.0" y="68.4" class="dim" xml:space="preserve">   4%     7</text>
+<text x="10.0" y="84.5" xml:space="preserve">Python</text>
+<rect x="165" y="74.5" width="6.4" height="9"/>
+<text x="325.0" y="84.5" class="dim" xml:space="preserve">   4%     2</text>
+<text x="10.0" y="100.6" xml:space="preserve">Dockerfile</text>
+<rect x="165" y="90.625" width="3.8" height="9"/>
+<text x="325.0" y="100.6" class="dim" xml:space="preserve">   3%     5</text>
+<text x="10.0" y="116.8" xml:space="preserve">Shell</text>
+<rect x="165" y="106.75" width="3.7" height="9"/>
+<text x="325.0" y="116.8" class="dim" xml:space="preserve">   2%     5</text>
+</svg>
