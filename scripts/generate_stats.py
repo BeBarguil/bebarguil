@@ -25,7 +25,7 @@ SKIP_FORKS = True
 # --- mesma linguagem visual do retrato ---------------------------------------
 RAMP = " .`:-=+*cs#%@"
 COLOR = "#8b949e"
-DIM = "#484f58"
+DIM = "#6e7681"
 FONT_SIZE = 12.9
 CHAR_W = 7.74
 LINE_H = CHAR_W / 0.48
