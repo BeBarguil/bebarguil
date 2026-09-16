@@ -3,24 +3,24 @@
 <text x="165.0" y="20.0" class="dim" xml:space="preserve">bytes</text>
 <text x="370.0" y="20.0" class="dim" xml:space="preserve">repos</text>
 <text x="10.0" y="36.1" xml:space="preserve">Ruby</text>
-<rect x="165" y="26.125" width="64.0" height="9"/>
-<text x="325.0" y="36.1" class="dim" xml:space="preserve">  43%</text>
+<rect x="165" y="26.125" width="63.1" height="9"/>
+<text x="325.0" y="36.1" class="dim" xml:space="preserve">  42%</text>
 <text x="370.0" y="36.1" class="dim" xml:space="preserve">    7</text>
 <text x="10.0" y="52.2" xml:space="preserve">HTML</text>
-<rect x="165" y="42.25" width="63.1" height="9"/>
+<rect x="165" y="42.25" width="62.3" height="9"/>
 <text x="325.0" y="52.2" class="dim" xml:space="preserve">  42%</text>
 <text x="370.0" y="52.2" class="dim" xml:space="preserve">    7</text>
-<text x="10.0" y="68.4" xml:space="preserve">Python</text>
-<rect x="165" y="58.375" width="6.9" height="9"/>
-<text x="325.0" y="68.4" class="dim" xml:space="preserve">   5%</text>
-<text x="370.0" y="68.4" class="dim" xml:space="preserve">    2</text>
-<text x="10.0" y="84.5" xml:space="preserve">JavaScript</text>
-<rect x="165" y="74.5" width="6.7" height="9"/>
-<text x="325.0" y="84.5" class="dim" xml:space="preserve">   4%</text>
-<text x="370.0" y="84.5" class="dim" xml:space="preserve">    7</text>
+<text x="10.0" y="68.4" xml:space="preserve">JavaScript</text>
+<rect x="165" y="58.375" width="8.7" height="9"/>
+<text x="325.0" y="68.4" class="dim" xml:space="preserve">   6%</text>
+<text x="370.0" y="68.4" class="dim" xml:space="preserve">    8</text>
+<text x="10.0" y="84.5" xml:space="preserve">Python</text>
+<rect x="165" y="74.5" width="6.8" height="9"/>
+<text x="325.0" y="84.5" class="dim" xml:space="preserve">   5%</text>
+<text x="370.0" y="84.5" class="dim" xml:space="preserve">    2</text>
 <text x="10.0" y="100.6" xml:space="preserve">Dockerfile</text>
-<rect x="165" y="90.625" width="3.8" height="9"/>
-<text x="325.0" y="100.6" class="dim" xml:space="preserve">   3%</text>
+<rect x="165" y="90.625" width="3.7" height="9"/>
+<text x="325.0" y="100.6" class="dim" xml:space="preserve">   2%</text>
 <text x="370.0" y="100.6" class="dim" xml:space="preserve">    5</text>
 <text x="10.0" y="116.8" xml:space="preserve">Shell</text>
 <rect x="165" y="106.75" width="3.7" height="9"/>
