@@ -22,8 +22,7 @@ Off the clock I point code at the things I love: satellites, mountains, music an
 |:--|:--|
 | **[Ice Wall Finder](https://github.com/BeBarguil/icewall-finder)** — maps steep ice slopes in the Himalaya from satellite data · *Earth Engine* | **[Spotify Genre Sorter](https://github.com/BeBarguil/spotify-genre-sorter)** — sorts Liked Songs into genre playlists · *Python* |
 
-Also: [swell-finder](https://github.com/BeBarguil/swell-finder) · [run_together](https://github.com/BeBarguil/run_together) · [order-api-jitterbit](https://github.com/BeBarguil/order-api-jitterbit)
-
+Also: [swell-finder](https://github.com/BeBarguil/swell-finder) · [run_together](https://github.com/BeBarguil/run_together) 
 ### Stats
 
 <img src="stats.svg" width="49%" alt="contributions"> <img src="langs.svg" width="49%" alt="top languages">
